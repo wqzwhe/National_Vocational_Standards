@@ -1,0 +1,60 @@
+{
+    "code": 200,
+    "msg": "OK",
+    "body": {
+        "total": 3,
+        "list": [
+            {
+                "id": 330,
+                "code": "6-30-05-01",
+                "name": "起重装卸机械操作工（汽车吊司机）",
+                "issueNumber": "人社厅发〔2023〕39号",
+                "issueTime": "2023-09-15 00:00:00",
+                "standardInfo": "4eNsZIOv3WFNDfbnldJHeA/2024/4/29/f3e2056ec0704df094c9528d11624ae7.pdf",
+                "standardInfoName": "起重装卸机械操作工2023.10.11.pdf",
+                "status": 1,
+                "del": null
+            },
+            {
+                "id": 675,
+                "code": "6-30-05-01",
+                "name": "起重装卸机械操作工",
+                "issueNumber": "人社厅发〔2018〕147号",
+                "issueTime": "2018-12-28 00:00:00",
+                "standardInfo": "4eNsZIOv3WFNDfbnldJHeA/2024/4/29/c6ead283c89c42f4ad73ea98310b4c8c.pdf",
+                "standardInfoName": "起重装卸机械操作工（2018 年版）.pdf",
+                "status": 1,
+                "del": null
+            },
+            {
+                "id": 865,
+                "code": "6-24-05-02",
+                "name": "起重工",
+                "issueNumber": "劳社厅发〔2003〕1号",
+                "issueTime": "2003-01-23 00:00:00",
+                "standardInfo": "4eNsZIOv3WFNDfbnldJHeA/2024/4/29/0c54eb5e87a24dbca74da066131ebfe3.pdf",
+                "standardInfoName": "起重工（2003年版）.pdf",
+                "status": 1,
+                "del": null
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "size": 3,
+        "startRow": 1,
+        "endRow": 3,
+        "pages": 1,
+        "prePage": 0,
+        "nextPage": 0,
+        "isFirstPage": true,
+        "isLastPage": true,
+        "hasPreviousPage": false,
+        "hasNextPage": false,
+        "navigatePages": 8,
+        "navigatepageNums": [
+            1
+        ],
+        "navigateFirstPage": 1,
+        "navigateLastPage": 1
+    }
+}
