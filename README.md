@@ -112,7 +112,7 @@
     ```nginx
     server {
       listen 8080;
-      server_name www.wzhcn.cn 124.222.20.159;
+      server_name www.wzhcn.cn ip;
       root /www/sites/gbxz.wzhcn.cn/index;
       index index.html;
 
