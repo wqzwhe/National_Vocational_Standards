@@ -1,0 +1,3 @@
+frontend-spa/node_modules/*
+frontend-spa/dist/*
+__pycache__/*

@@ -1,7 +1,7 @@
-import { createVuePlugin } from 'vite-plugin-vue2'
+import vue from '@vitejs/plugin-vue'
 
 export default {
-  plugins: [createVuePlugin()],
+  plugins: [vue()],
   server: {
     port: 5173,
     host: true,
